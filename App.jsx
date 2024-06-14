@@ -7,8 +7,8 @@ const App = () => {
   return (
     <>
       <div className="container">
-        <ParentClass />
-        {/* <Parent /> */}
+        <ParentClass />     { /* if use class */ }
+        {/* <Parent /> */}  { /* if use fun. componants */ }
       </div>
     </>
   )
